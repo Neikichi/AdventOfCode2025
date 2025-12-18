@@ -29,6 +29,6 @@ This project is part of my journey to learn modern C++ coming from **42 School K
 | [Day 11](Day11) | ⭐ | ⭐ |
 | [Day 12](Day12) | ⭐ | ⭐ |
 
-## 📜 License
+## 
 
-MIT License - see [LICENSE](LICENSE) file for details.
+MIT License
