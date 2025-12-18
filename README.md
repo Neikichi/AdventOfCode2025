@@ -2,34 +2,17 @@
 
 My solutions for [Advent of Code 2025](https://adventofcode.com/2025) implemented in **C++20/23**.
 
-This project is part of my journey to learn modern C++ at **42 School**.
+This project is part of my journey to learn modern C++ coming from **42 School KL**.
 
-## 📁 Structure
-
-Each day's challenge is organized in its own directory:
-```
-DayXX/
-├── part1/
-└── part2/
-```
-
-## 🛠️ Technologies
+## Learning Goal
 
 - **C++20/23** - Modern C++ features and best practices
 - Focus on learning: 
   - STL containers and algorithms
   - Range-based programming
   - Modern C++ idioms
-  - Memory safety
 
-## 🚀 Building & Running
-
-```bash
-cd DayXX/partY
-# Add your build commands here
-```
-
-## 📊 Progress
+## Result
 
 | Day | Part 1 | Part 2 |
 |-----|--------|--------|
@@ -45,10 +28,6 @@ cd DayXX/partY
 | [Day 10](Day10) | ⭐ | ⭐ |
 | [Day 11](Day11) | ⭐ | ⭐ |
 | [Day 12](Day12) | ⭐ | ⭐ |
-
-## 📝 Learning Notes
-
-Each solution explores different C++20/23 features and modern practices learned at 42 School. 
 
 ## 📜 License
 
